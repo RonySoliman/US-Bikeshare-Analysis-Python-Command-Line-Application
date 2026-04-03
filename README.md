@@ -1,4 +1,4 @@
-# 🚲 US Bikeshare Data Explorer — Python CLI
+# 🚲 US Bikeshare Analysis — Python Command-Line Application
 
 An interactive command-line application that lets users explore **US bikeshare trip data** across three cities — Chicago, New York City, and Washington. Users filter data by city, month, and day of the week, and the program computes and displays a rich set of descriptive statistics in real time.
 
